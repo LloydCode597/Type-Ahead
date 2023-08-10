@@ -32,8 +32,3 @@ This project does not have any external dependencies. All the necessary files ar
 ## Contributing
 
 Contributions are welcome! If you find any issues, have suggestions for improvements, or want to add new features, please feel free to open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
